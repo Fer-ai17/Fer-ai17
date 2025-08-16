@@ -4,7 +4,8 @@
 
 Soy una apasionada del desarrollo de software, diseño soluciones digitales y creo proyectos funcionales. Me gusta aprender nuevas tecnologías y trabajar en equipo para resolver problemas reales.
 
----                                                                                                                                                              ## 🚀 Tecnologías que uso
+---                                                                                                                                                              
+## 🚀 Tecnologías que uso
 
 ### 💻 Lenguajes de programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
