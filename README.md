@@ -58,7 +58,7 @@ Soy una apasionada del desarrollo de software, diseño soluciones digitales y cr
 ---
 
 ## 📫 Conecta conmigo
-- 📧 **Email:** Ferccarva@gmail.com  
+- 📧 **Email:** ferccarva@gmail.com  
 - 📷 **Instagram:** [Fer](https://www.instagram.com/m4d4.h?igsh=MWJyaWN1aDhmbGlnaQ==)  
 
 ---
