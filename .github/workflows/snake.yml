@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule: # Ejecutar automáticamente
+    - cron: "0 */12 * * *" # cada 12 horas
+  workflow_dispatch: # Ejecutar manualmente
+  push: # O cuando hagas push al README
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clona el repositorio
+        uses: actions/checkout@v3
+
+      - name: Genera la animación Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Fer-ai17
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Sube los archivos a GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
