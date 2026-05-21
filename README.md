@@ -63,8 +63,7 @@ Actualmente explorando la intersección entre el desarrollo y las nuevas tecnolo
 
 ---
 
-## 🎮 Un mini juego en tu perfil
-¿Un descanso? Juega un poco aquí:  
+## 🎮 ¿Un descanso? Juega un poco aquí:  
 
 ![Snake animation](https://github.com/Fer-ai17/Fer-ai17/blob/output/github-contribution-grid-snake.svg)
 
