@@ -1,8 +1,6 @@
 # 👋 ¡Hola, soy Fernanda!
 
-🎯 **Desarrolladora en formación | Apasionada por la tecnología y la innovación**  
-
-Soy una apasionada del desarrollo de software, diseño soluciones digitales y creo proyectos funcionales. Me gusta aprender nuevas tecnologías y trabajar en equipo para resolver problemas reales.
+🎯 **Desarrolladora de Software en formación | Impulsando ideas a través del código** Soy una entusiasta de la tecnología dedicada al diseño y desarrollo de soluciones digitales funcionales. Me motiva transformar problemas reales en aplicaciones eficientes, aprender constantemente nuevas tecnologías y aportar valor trabajando en equipo.
 
 ---                                                                                                                                                              
 ## 🚀 Tecnologías que uso
@@ -19,7 +17,7 @@ Soy una apasionada del desarrollo de software, diseño soluciones digitales y cr
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🌐 Desarrollo web
+### 🌐 Desarrollo Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -28,31 +26,34 @@ Soy una apasionada del desarrollo de software, diseño soluciones digitales y cr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Herramientas
+### 🛠️ Herramientas y Entornos
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🎨 Diseño
+### 🎨 Diseño y Prototipado
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
                  
 ---
 
 ## 📌 Proyectos destacados
-- 🧾 **CRM para gestión de clientes** → Plataforma para administrar clientes y su información.  
-- 🌐 **Portafolio grupal** → Página que reúne diferentes proyectos colaborativos.  
-- 💈 **Agenda de Citas - Barbería** → Aplicación web para gestionar reservas de clientes en una barbería.  
-- 🐾 **Agenda de Citas - Veterinaria** → Sistema de gestión de citas para mascotas y sus dueños.  
-- 📜 **Generador de constancias laborales** *(en desarrollo)* → Crea constancias con base en el historial del trabajador.  
+
+- 🎫 **Plataforma de Eventos y Boletería** → Sistema para la creación de eventos, gestión y asignación de artistas, y venta de entradas en línea.
+- 🧾 **CRM para Gestión de Clientes** → Panel administrativo optimizado para el seguimiento, control e historial de clientes.  
+- 💈 **Sistema de Reservas (Barbería / Veterinaria)** → Aplicaciones web diseñadas para la gestión eficiente de citas, control de turnos y agendas.  
+- 📜 **Generador de Constancias Laborales** *(En desarrollo)* → Herramienta automatizada para la generación de documentos basados en el historial laboral del usuario.
+- 🌐 **Portafolio Grupal** → Espacio web colaborativo que integra y expone diversos proyectos desarrollados en equipo.  
+- 📝 **Checklist de Tareas** → Aplicación ágil para el control, seguimiento y organización de actividades pendientes y realizadas.
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Arquitectura de software (C4 Model)  
-- Buenas prácticas en GitHub y trabajo colaborativo  
+## 🌱 En constante crecimiento
+Actualmente explorando la intersección entre el desarrollo y las nuevas tecnologías:
+- 🤖 Integración y desarrollo asistido por Inteligencia Artificial.
+- ⚖️ Manejo ético y responsable de la IA en el software.
 
 ---
 
