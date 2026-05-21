@@ -52,7 +52,6 @@ Soy una apasionada del desarrollo de software, diseño soluciones digitales y cr
 
 ## 🌱 Actualmente aprendiendo
 - Arquitectura de software (C4 Model)  
-- Desarrollo fullstack con Django + PostgreSQL  
 - Buenas prácticas en GitHub y trabajo colaborativo  
 
 ---
